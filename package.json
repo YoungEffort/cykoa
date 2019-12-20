@@ -1,0 +1,13 @@
+{
+  "name": "cykoa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YoungEffort/cykoa.git",
+  "author": "youngeffort <893520964@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "err":"node examples/errorDemo.js",
+    "ext":"node examples/extendDemo.js",
+    "mid":"node examples/middlewareDemo.js"
+  }
+}
